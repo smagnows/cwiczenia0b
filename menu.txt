@@ -1,0 +1,3 @@
+0 - Wyjscie
+1 - Dzielenie dowolnej liczby rzeczywistej przez zero
+2 - 
