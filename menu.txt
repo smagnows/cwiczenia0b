@@ -1,3 +1,4 @@
 0 - Wyjscie
 1 - Dzielenie dowolnej liczby rzeczywistej przez zero
-2 - 
+2 - Teoria wycieku pamieci (ed. 1)
+

@@ -1,3 +1,8 @@
+/**
+* Name: ogolne.cpp
+* @author Sebastian Magnowski
+*
+*/
 #include <iostream>
 #include <fstream>
 #include "variables.h"
@@ -33,7 +38,8 @@ void dzialaj(void) {
 			break;
 			case 1: dziel();
 			break;
-			
+			case 2: wyciek1();
+			break;
 			
 		}
 	}
